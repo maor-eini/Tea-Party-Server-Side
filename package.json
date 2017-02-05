@@ -1,0 +1,23 @@
+{
+  "name": "tea-party-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://maor-eini@github.com/maor-eini/Tea-Party-Server-Side.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maor-eini/Tea-Party-Server-Side/issues"
+  },
+  "homepage": "https://github.com/maor-eini/Tea-Party-Server-Side#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "monk": "^3.1.4"
+  }
+}
